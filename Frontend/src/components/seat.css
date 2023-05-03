@@ -1,0 +1,87 @@
+.seat{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    width: 300px;
+    text-align: center;
+    border: 2px solid rgb(231, 53, 53);
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top:30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    height: fit-content;   
+    background-color: white;
+}
+.seatblur{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    width: 300px;
+    text-align: center;
+    border: 2px solid rgb(231, 53, 53);
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top:30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    height: fit-content;   
+    background-color: white;
+    filter: blur(2px);
+}
+.shimmerseat{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    width: 300px;
+    text-align: center;
+    border: 2px solid rgb(231, 53, 53);
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top:30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    height: 650px;   
+    background-color: white;
+}
+.shimmer{
+    color: rgb(240, 236, 236);
+    margin: 2px;
+    padding: 5px;
+}
+.shimmerloadingonstatus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxshimmerloading{
+    display: flex;
+    height: 650px;
+    justify-content: center;
+    align-items: center; 
+}
+.seaticon{
+    color: rgb(234, 9, 9);
+    margin: 2px;
+    padding: 5px;
+}
+.seat_icon_outline{
+    color: rgb(244, 192, 184);
+    margin: 2px;
+    padding: 5px;
+}
+
+.seatrow{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+.seatnotext{
+    font-size: x-small;
+}
+.seatcol{
+    display: flex;
+    flex-direction: row;
+}

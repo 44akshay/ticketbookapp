@@ -1,0 +1,4 @@
+.applayout{
+    display: flex;
+    flex-wrap: wrap;
+}

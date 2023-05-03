@@ -1,0 +1,84 @@
+.bookingbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top:30px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    padding: 20px;
+    width: 280px;
+    height:fit-content;
+    font-weight: bold;
+    border: 2px solid red;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.bookingboxphone{
+    display: flex;
+    flex-direction: column;
+}
+.bookingboxphone input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.bookingboxname{
+    display: flex;
+    flex-direction: column;
+}
+.bookingboxname input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.bookingboxselect{
+    display: flex;
+    flex-direction: column;
+}
+.bookingboxselect select{
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.bookingbox button{
+    margin-top: 10px;
+    width: 120px;
+    border-radius: 10px;
+    border: 1px solid lightcoral;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    background-color: red;
+    cursor: pointer;
+}
+.bookingboxreset{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top:50px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    padding: 20px;
+    width: 280px;
+    height:fit-content;
+    font-weight: bold;
+    border: 2px solid blue;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.bookingboxreset button{
+    color: white;
+    margin-top: 10px;
+    padding: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: blue;
+}
+.toast{
+    
+}

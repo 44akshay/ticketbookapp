@@ -1,0 +1,39 @@
+.displaybox{
+    overflow-y: auto;
+    height: 400px;
+    width: 500px;
+    margin-top: 30px;
+    border: 2px solid red;
+    background-color: white;
+    cursor: pointer;
+    margin-right:80px;
+    border-radius: 10px;
+}
+.shimmerbox{
+    overflow-y: auto;
+    height: 400px;
+    width: 500px;
+    margin-top: 30px;
+    border: 2px solid red;
+    background-color: white;
+    cursor: pointer;
+    margin-right:80px;
+    border-radius: 10px;
+}
+.shimmerboxloading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.displayuserinfo{
+    margin: 10px;
+}
+.displaybox h1{
+    position: sticky;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    margin-top: 0;
+}   
