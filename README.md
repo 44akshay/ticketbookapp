@@ -2,8 +2,8 @@
 The project is created on React as frontend and Springboot as backend\
 Spring boot is deployed on AWS Elastic Beanstalk and React is hosted on free platform called netlify\
 Here is the Live link of working project [Live Link!](https://ticketbooklive.netlify.app) 
-
-
+# Update
+I have changed my DB hosting from AWS Rds to phpmysql free service, since aws free tier limit of 750 hrs will be crossing and so website will be working slow
 
 # Database structure
 ![TicketDB](https://user-images.githubusercontent.com/32939560/236049910-42cfc00e-7332-4c0b-8eb1-3c99e8cd8654.png)
